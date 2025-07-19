@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: fbot_rl
+Version: 0.1.0
+Summary: A reinforcement learning robotics project.
+Author-email: Your Name <your.email@example.com>
+License: MIT
+Project-URL: Homepage, https://github.com/yourusername/fbot_rl
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown

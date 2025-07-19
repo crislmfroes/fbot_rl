@@ -1,0 +1,20 @@
+[project]
+name = "fbot_rl"
+version = "0.1.0"
+description = "A reinforcement learning robotics project."
+authors = [
+    { name = "Your Name", email = "your.email@example.com" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+[project.urls]
+Homepage = "https://github.com/yourusername/fbot_rl"
+
+[tool.setuptools]
+packages = ["fbot_rl"]
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
